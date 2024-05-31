@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 how are you
 hello
+=======
+Hello cutie pie
+>>>>>>> origin/master
